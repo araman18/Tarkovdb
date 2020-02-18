@@ -1,6 +1,5 @@
 # Tarkovdb
-This is a django-admin application that does something idk.
-
+This is a django-admin application that scrapes data from tarkov market and checks item data for potential barter trades
 ## Installation
 ```bash
 $ python3 -m venv env
